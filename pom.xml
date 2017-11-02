@@ -29,6 +29,6 @@
 
   </dependencies>
   <build>
-    <finalName>AppRestful</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
